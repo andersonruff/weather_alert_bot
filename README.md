@@ -1,4 +1,5 @@
 # weather_alert_bot
+Um bot cujo qual sua finalidade é fornecer informações climaticas proporcionado automação na busca de informações
 
 
 
